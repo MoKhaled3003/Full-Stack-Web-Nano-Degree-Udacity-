@@ -1,0 +1,20 @@
+
+{% extends "base.html" %}
+{% block content %}
+    <!-- Page Content -->
+    <div class="container padding-container">
+        <div class="row">
+            <div class=" col-md-offset-2 col-md-9">
+                <div class="thumbnail">
+                    <div class="caption-full">
+                        <h4 class="pull-right"><strong>Price: </strong>{{ item.price | safe }}</h4>
+                        <h3>{{ item.name | safe }}</h3>
+                        <h5><strong>Category: </strong>{{ item.category | safe }}</h5>
+                        <p><strong>Description: </strong>{{ item.description | safe }}</p>
+                        <p><strong>Creator: </strong><i>{{ creator.name | safe }}</i></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
