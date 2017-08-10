@@ -27,3 +27,6 @@ This repository contains my projects for the [Udacity's Full Stack Web Developer
 6. [Archaeological Mosques Map](https://github.com/MoKhaled3003/Full-Stack-Web-Nano-Degree-Udacity-/tree/master/Archaeological%20Mosques): A single-page web application, built using the Knockout framework, that displays a Google Map of an area and various points of interest. Users can search all included landmarks and, when selected, additional information about a landmark is presented from the FourSquare and Wikipedia APIs.
 7. [Linux Server Configuration](https://github.com/MoKhaled3003/Full-Stack-Web-Nano-Degree-Udacity-/tree/master/linux-server-config): nstalled and configured all required software to turn a baseline Ubuntu Amazon Web Services server into a fully functional web application server, including Apache Web Server and PostgreSQL database server.
 
+### Certificate:
+here is a link to verified [certificate](https://drive.google.com/file/d/0BxK1Jl8REZAcUnNuOGdnTWhyLXM/view?usp=sharing) from udacity
+
